@@ -4,3 +4,8 @@ git add .
 git status
 git commit -m "Comment"
 git resotre --stage   #to move from stage to untrack
+
+
+adding this to dev and 
+try to check what is goin on
+
